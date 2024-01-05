@@ -25,7 +25,7 @@ public class Cart {
 
     public int getTotal() {
         /*
-        Usando ForEach
+        Usando forEach
         AtomicInteger total = new AtomicInteger();
         products.stream().forEach((Product product) -> {
             total.addAndGet(product.getValue() * product.getQuantity());

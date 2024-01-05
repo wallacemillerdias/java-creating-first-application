@@ -48,8 +48,8 @@ public class Main {
         int idade = 30;
         double valor = 55.9999;
         System.out.println(String.format("Meu nome é %s, eu tenho %d anos e hoje gastei %.2f reais", nome, idade, valor));
-        Pessoa pessoaVazia = new Pessoa();
-        Pessoa pessoa = new Pessoa(1L, "Jean", "jeanpaulwebb@gmail.com", "123");
+        Person pessoaVazia = new Person();
+        Person pessoa = new Person(1L, "Jean", "jeanpaulwebb@gmail.com", "123");
         pessoaVazia.setId(2L);
         pessoaVazia.setNome("Maria");
         pessoaVazia.setEmail("maria@example.com");

@@ -2,7 +2,7 @@ package org.example;
 
 public class Checkout {
     public static void main(String[] args) {
-        Pessoa client = new Pessoa(1L, "Jean Paul", "jeanpaulwebb@gmail.com", "1234");
+        Person client = new Person(1L, "Jean Paul", "jeanpaulwebb@gmail.com", "1234");
         Cart cart = new Cart();
         cart.addItem(new Product("Memória", 300, "PC", 4));
         cart.addItem(new Product("Monitor", 900, "PC", 1));
