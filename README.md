@@ -1,16 +1,13 @@
 ### JAVA: creating your first application
 
-https://cursos.alura.com.br/user/jeansimoes/course/java-criando-primeira-aplicacao/certificate
-
 <h3 align="center">Alura course material, creating your first application</h3>
 
-[![GitHub top language](https://img.shields.io/github/languages/top/JeanPaulll/java-creating-first-application#readme.svg)]()
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JeanPaulll/java-creating-first-application.svg)]()
-[![GitHub issues](https://img.shields.io/github/issues/JeanPaulll/java-creating-first-application.svg)]()
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/JeanPaulll/java-creating-first-application.svg)]()
-[![GitHub contributors](https://img.shields.io/github/contributors/JeanPaulll/java-creating-first-application.svg)]()
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/JeanPaulll/java-creating-first-application)
-[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=agenciacriamais)](http://www.agenciacriamais.com.br)
+[![GitHub top language](https://img.shields.io/github/languages/top/wallacemillerdias/java-creating-first-application#readme.svg)]()
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/wallacemillerdias/java-creating-first-application.svg)]()
+[![GitHub issues](https://img.shields.io/github/issues/wallacemillerdias/java-creating-first-application.svg)]()
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/wallacemillerdias/java-creating-first-application.svg)]()
+[![GitHub contributors](https://img.shields.io/github/contributors/wallacemillerdias/java-creating-first-application.svg)]()
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/wallacemillerdias/java-creating-first-application)
 
 ## Links
 
