@@ -9,7 +9,7 @@ public class Checkout {
         cart.addItem(new Product("Mouse", 50, "PC", 2));
         cart.addItem(new Product("Pendrive", 50, "PC", 1));
         System.out.println(":: Cliente ::");
-        System.out.println(client.getNome());
+        System.out.println(client.getName());
         System.out.println(":: Produtos ::");
         for (Product product : cart.getProducts()) {
             System.out.println(product.getQuantity() + " - " + product.getName());

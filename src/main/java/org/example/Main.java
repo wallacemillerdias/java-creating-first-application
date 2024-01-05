@@ -51,9 +51,9 @@ public class Main {
         Person pessoaVazia = new Person();
         Person pessoa = new Person(1L, "Jean", "jeanpaulwebb@gmail.com", "123");
         pessoaVazia.setId(2L);
-        pessoaVazia.setNome("Maria");
-        pessoaVazia.setEmail("maria@example.com");
-        pessoaVazia.setSenha("outrasenha");
+        pessoaVazia.setName("Maria");
+        pessoaVazia.setEmail("teste@exemplo.com");
+        pessoaVazia.setPassword("321");
         System.out.println(pessoaVazia);
         System.out.println(pessoa);
         int dia = 3;

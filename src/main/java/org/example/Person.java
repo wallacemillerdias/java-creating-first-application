@@ -10,7 +10,7 @@ import lombok.*;
 @NoArgsConstructor
 public class Person {
     private Long id;
-    private String nome;
+    private String name;
     private String email;
-    private String senha;
+    private String password;
 }
